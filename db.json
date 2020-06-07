@@ -1,11 +1,39 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Jakir",
+      "mobile": "9679067076",
+      "email": "jakir@gmail.com",
+      "password": "hussian007",
+      "id": 1
+    },
+    {
+      "name": "Jakir hussian",
+      "mobile": "99999999",
+      "email": "jakir@gmail.com",
+      "password": "hussian007",
+      "id": 2
+    },
+    {
+      "name": "jj",
+      "mobile": "jj",
+      "email": "jj",
+      "password": "j",
+      "id": 3
+    },
+    {
+      "name": "Hus",
+      "mobile": "jkjk",
+      "email": "jjk",
+      "password": "jkjk",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "mobile": "h",
+      "email": "hhhh",
+      "password": "h",
+      "id": 5
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
